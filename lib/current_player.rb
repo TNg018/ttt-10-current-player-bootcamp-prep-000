@@ -13,3 +13,4 @@ def current_player(board)
   if turn.even? == true
     return "O"
 end
+end
