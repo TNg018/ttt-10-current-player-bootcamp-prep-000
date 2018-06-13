@@ -12,7 +12,6 @@ def current_player(board)
   turn = turn_count(board) + 1
   if turn.even? == true
     return "O"
-  else return "Xlearn
-    "
+  else return "X"
 end
 end
